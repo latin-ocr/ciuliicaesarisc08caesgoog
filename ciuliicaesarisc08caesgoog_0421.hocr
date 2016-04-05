@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ciuliicaesarisc08caesgoog_0421.png"; bbox 0 0 2548 4775; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 1466 2161 1946">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 1466 2161 1946">
+     <span class='ocr_line' id='line_1_1' title="bbox 122 1466 2161 1655; baseline -0.016 -27"><span class='ocrx_word' id='word_1_1' title='bbox 122 1522 478 1630; x_wconf 85' lang='lat' dir='ltr'>CAII</span> <span class='ocrx_word' id='word_1_2' title='bbox 595 1513 1100 1655; x_wconf 58' lang='grc' dir='ltr'><strong>’,ιν-ιη</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1233 1466 2161 1617; x_wconf 77' lang='lat' dir='ltr'><strong>CAESARIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 145 1725 1694 1946; baseline -0.025 10"><span class='ocrx_word' id='word_1_4' title='bbox 145 1725 176 1774; x_wconf 46' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 540 1829 1694 1946; x_wconf 85' lang='lat' dir='ltr'>COMMENTARII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 280 2074 1952 2235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 280 2074 1952 2235">
+     <span class='ocr_line' id='line_1_3' title="bbox 280 2074 1952 2235; baseline -0.021 1"><span class='ocrx_word' id='word_1_6' title='bbox 280 2158 479 2235; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 622 2074 1240 2230; x_wconf 42' lang='grc' dir='ltr'><strong>ΒΕῙΑῘΛόχ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1333 2124 1952 2211; x_wconf 75' lang='lat' dir='ltr'><strong>elvlLl</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

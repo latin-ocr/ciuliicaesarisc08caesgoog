@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ciuliicaesarisc08caesgoog_0043.png"; bbox 0 0 2548 4775; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 80 1427 2201 1852">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 80 1427 2201 1852">
+     <span class='ocr_line' id='line_1_1' title="bbox 80 1427 2201 1585; baseline 0.003 -25"><span class='ocrx_word' id='word_1_1' title='bbox 80 1427 510 1585; x_wconf 20' lang='lat' dir='ltr'><strong>CJA&#39;II</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 650 1447 1140 1556; x_wconf 84' lang='lat' dir='ltr'>IVLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1290 1430 2201 1566; x_wconf 78' lang='lat' dir='ltr'><strong>CAESARIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 585 1676 1930 1852; baseline -0.009 0"><span class='ocrx_word' id='word_1_4' title='bbox 585 1676 1741 1852; x_wconf 78' lang='lat' dir='ltr'>COMMENTARII</span> <span class='ocrx_word' id='word_1_5' title='bbox 1920 1687 1930 1699; x_wconf 44' lang='lat'>⁸</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 260 2006 2410 2121">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 260 2006 2410 2121">
+     <span class='ocr_line' id='line_1_3' title="bbox 260 2006 2410 2121; baseline -0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 260 2044 481 2121; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 617 2042 1128 2117; x_wconf 81' lang='lat' dir='ltr'>BELLO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1265 2021 1994 2118; x_wconf 75' lang='lat' dir='ltr'>GALL1co</span> <span class='ocrx_word' id='word_1_9' title='bbox 2368 2006 2410 2085; x_wconf 60' lang='grc' dir='ltr'><em>Ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1631 2266 1648 2329">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1631 2266 1648 2329">
+     <span class='ocr_line' id='line_1_4' title="bbox 1631 2266 1648 2329; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1631 2266 1648 2329; x_wconf 69' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
